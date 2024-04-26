@@ -23,3 +23,16 @@
     }
   
 }
+
+
+@media only screen and (max-width: 600px) {
+	
+@keyframes tracksMove {
+
+    100% {
+        transform: translate(-50%, 0);
+    }
+  
+}
+
+}
