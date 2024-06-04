@@ -15,6 +15,13 @@
 
     display: flex;
 }
+.ca {
+    font-size: 20px;
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    color: rgb(201, 187, 187);
+    position: relative;
+}
 
 .tracks .track {
     min-width: 294vw;
